@@ -8,7 +8,7 @@
 
 ...
 
-## Section 1 -- Warum Kryptowährungen?
+## Teil 1 -- Warum Kryptowährungen?
 
 ### Crypto is more than just memes
 
@@ -16,7 +16,7 @@
 
 ### The value proposition of public blockchains
 
-## Section 2 -- Warum Ethereum?
+## Teil 2 -- Warum Ethereum?
 
 ### Network effects and protocol sink thesis
 
@@ -24,7 +24,7 @@
 
 ### EIP-1559
 
-## Section 3 -- Wie man investieren kann
+## Teil 3 -- Wie man investieren kann
 
 ### ETF and publicly traded funds
 
